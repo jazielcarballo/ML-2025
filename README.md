@@ -29,7 +29,7 @@ To document the learning process, implementation, and analysis of machine learni
 
 **Jaziel Carballo**  
 PhD Candidate in Geospatial Information Sciences  
-[CentroGeo](https://www.centrogeo.org.mx/) | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/jazielcarballo)
+[CentroGeo](https://www.centrogeo.org.mx/) | [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/jazielcarballo/)) | [GitHub](https://github.com/jazielcarballo)
 
 ---
 
