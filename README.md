@@ -28,7 +28,7 @@ To document the learning process, implementation, and analysis of machine learni
 ## 👨‍🎓 Author
 
 **Jaziel Carballo**  
-PhD Candidate in Geospatial Information Sciences  
+PhD Student in Geospatial Information Sciences  
 [CentroGeo](https://www.centrogeo.org.mx/) | [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/jazielcarballo/)) | [GitHub](https://github.com/jazielcarballo)
 
 ---
