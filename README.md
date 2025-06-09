@@ -16,7 +16,7 @@ To document the learning process, implementation, and analysis of machine learni
 | Task        | Description                                      | Status         |
 |-------------|--------------------------------------------------|----------------|
 | `hw1`    | Analyzing Linear Independence in Satellite Imagery with Python    | ✅ Completed    |
-| `hw2`    |  Phase unwrapping  | 🟡 In progress  |
+| `hw2`    |  Phase unwrapping  | ✅ Completed  |
 
 
 ## 🛠️ Technologies Used
