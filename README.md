@@ -17,6 +17,9 @@ To document the learning process, implementation, and analysis of machine learni
 |-------------|--------------------------------------------------|----------------|
 | `hw1`    | Analyzing Linear Independence in Satellite Imagery with Python    | ✅ Completed    |
 | `hw2`    |  Phase unwrapping  | ✅ Completed  |
+| `hw3`    | Implementation of Regularized Unmixing    | ✅ Completed    |
+| `hw4`    |  SPCA & PCA  | ✅ Completed  |
+
 
 
 ## 🛠️ Technologies Used
